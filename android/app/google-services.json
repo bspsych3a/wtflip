@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814251308579",
+    "project_id": "card-flip-f1aea",
+    "storage_bucket": "card-flip-f1aea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814251308579:android:b6a5c7424c88fdbd1a2396",
+        "android_client_info": {
+          "package_name": "com.example.flutterr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDvSYRqkPOwVDeh7HHQ8FTtxoEaWZiIPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
