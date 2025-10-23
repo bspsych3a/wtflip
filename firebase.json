@@ -1,1 +1,16 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"card-flip-f1aea","appId":"1:814251308579:android:b6a5c7424c88fdbd1a2396","fileOutput":"android/app/google-services.json"}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "card-flip-f1aea",
+          "appId": "1:814251308579:android:b6a5c7424c88fdbd1a2396",
+          "fileOutput": "android/app/google-services.json"
+        }
+      }
+    }
+  },
+  "database": {
+    "rules": "database.rules.json"
+  }
+}
